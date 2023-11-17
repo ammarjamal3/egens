@@ -1,0 +1,22 @@
+body
+{
+
+background-color: rgb(235,236,244);
+
+font-family: 'Jost', sans-serif;
+
+
+}
+
+.nav-link {
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+
+}
+
+.nav-item:hover .nav-link {
+
+    color: #0d6efd;
+
+}
