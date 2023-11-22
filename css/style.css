@@ -16,7 +16,28 @@ font-family: 'Jost', sans-serif;
 }
 
 .nav-item:hover .nav-link {
-
     color: #0d6efd;
+}
+.main-title{
+
+    font-size: 72px;
+    font-weight: 500;
+}
+.main-subtitle{    font-size: 24px;
+    font-weight: 500;
+    color:rgb(113,83,217);
+   
+}
+
+.main-p{font-size: 24px;
+    font-weight: 400;
+    color: #54545f;}
+
+.btn{
+background: linear-gradient(135deg,#4526b1 0%, #5435be 45%, #7153d9 66%);
+padding:  20px 55px;
+text-decoration: none;
+color: white;
+border-radius: 35px;
 
 }
