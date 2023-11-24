@@ -41,3 +41,12 @@ color: white;
 border-radius: 35px;
 
 }
+
+.mybackground {
+    background: rgb(235,236,244) !important;
+    transition: 1.5s ease-in;
+  }
+  
+.mybackground.scrolled {
+    background: rgb(255, 255, 255) !important;
+  }
