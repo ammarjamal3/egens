@@ -1,7 +1,7 @@
 body
 {
 
-background-color: rgb(235,236,244);
+background-color: rgb(255, 255, 255);
 
 font-family: 'Jost', sans-serif;
 
@@ -49,4 +49,14 @@ border-radius: 35px;
   
 .mybackground.scrolled {
     background: rgb(255, 255, 255) !important;
+  }
+
+  .mystyle{
+
+    background: #f2f5fb;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 605%;
   }
